@@ -237,6 +237,7 @@ Passing `--skip-empty` will not create pages for empty folders.
 
 <details>
 <summary>Example</summary>
+    
 ```text
 document.md
 folder1/
@@ -267,6 +268,7 @@ Alternatively, you can specify `--collapse-empty` to merge empty folders togethe
 
 <details>
 <summary>Example</summary>
+    
 ```text
 document.md
 folder1/
